@@ -1,2 +1,0 @@
-skip_dir = "Anlagen|Apps|Bilder|Desktop|Dokumente|Musik|NoteinOneDrive|Sammlungen|WSL"
-skip_file = "~*|.~*|*.tmp|*.swp|*.partial"
